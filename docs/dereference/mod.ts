@@ -66,8 +66,8 @@ app.use(router.allowedMethods());
 console.log(" Deno DID Dereferencer is running.");
 console.log(
   "🔗 Example Module:\n" +
-  "http://localhost:8000/did-modules/did:web:or13.github.io:deno-did-pm" +
-  "?service=github&relativeRef=/OR13/deno-did-pm/master/docs/hello-world.ts"
+  "http://localhost:8000/did-modules/did:web:fabiennevn.github.io:deno-did-pm" +
+  "?service=github&relativeRef=/Fabiennevn/deno-did-pm/master/docs/hello-world.ts"
 );
 
 await app.listen({ port: 8000 });

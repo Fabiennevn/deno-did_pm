@@ -1,6 +1,6 @@
 {
   "@context": ["https://www.w3.org/ns/did/v1"],
-  "id": "did:web:fabiennevn.github.io:deno-did_pm",
+  "id": "did:web:fabiennevn.github.io:deno-did-pm",
   "service": [
     {
       "id": "#github",
